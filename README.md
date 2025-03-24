@@ -13,7 +13,7 @@
 
 - Go to: AWS Console → IAM → Security Credentials.
 - Enable MFA: Choose "Virtual MFA" and use Google Authenticator/Authy.
-  [mfa](./docs/mfa.png)
+  ![mfa](./docs/mfa.png)
 
 3. Create another account and work in this account from now on:
 
