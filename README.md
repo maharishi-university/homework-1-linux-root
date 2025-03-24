@@ -30,6 +30,7 @@
 - Go to: Billing Dashboard → Preferences.
 - Enable billing alerts and set up an email notification.
 - Take a screenshot of the billing alert settings.
+  ![zero-billing-alert](./docs/billing-alert.png)
 
 5. Use your root account to create Budget Alert:
 
@@ -38,5 +39,8 @@
 - Threshold: $1 (or Free Tier limit).
 - Notification: Send email alerts when spending approaches the limit.
 - Take a screenshot of the budget alert setup.
+
+  ![zero-budget1](./docs/budget-alert.png)
+  ![zero-budget2](./docs/budget-alert2.png)
 
 ## Submit the above screenshots
