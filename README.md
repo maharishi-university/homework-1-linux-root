@@ -23,6 +23,7 @@
 - Set Console Access: Enable sign-in for this user.
 - Log out from the root account and only use this IAM user from now on.
 - Take a screenshot of the IAM user list.
+  ![users-list](./docs/users.png)
 
 4. Use your root account to create Billing Alert:
 
